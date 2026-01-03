@@ -4,3 +4,5 @@ obsidian://show-plugin?id=longform cioè
 typomagical
 Creare proprietà
 ffff
+[bipoli.pdf]
+
