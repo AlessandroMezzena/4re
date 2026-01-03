@@ -1,0 +1,1 @@
+Quartz mi permette la trasformazione di markdown inn html per la visualizzazione online, i markdown mi servono per creare la rete degli elementi
