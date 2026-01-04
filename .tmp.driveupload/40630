@@ -130,9 +130,21 @@
               "icon": "lucide-file",
               "title": "disegno"
             }
+          },
+          {
+            "id": "8c1732ac05f3ebd6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "bitmap.svg"
+              },
+              "icon": "lucide-image",
+              "title": "bitmap"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -306,17 +318,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1672a13dfd44dc05",
+  "active": "8c1732ac05f3ebd6",
   "lastOpenFiles": [
+    "espolde.svg",
     "hey.md",
+    "bitmap.svg",
     "piccione.pdf",
+    "Excalidraw/Drawing 2026-01-04 14.59.05.excalidraw.md",
+    "disegno.md",
+    "svg-cache",
     "Utility and Hack.md",
     "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.md",
     "Ink/Drawing/2026.1.4 - 14.45pm.drawing",
     "prove/Benvenuto.md",
     "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.png",
     "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.pdf",
-    "disegno.md",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
     "Excalidraw/Scripts/Downloaded",
@@ -330,7 +346,6 @@
     "prove/metodo pdf.md",
     "prove",
     "prove/Logaritmi .md",
-    "materiale/Logaritmhtmli .pdf",
     "prove/Trick and tips.md",
     "materiale/Logaritmi_files/Image_002.png",
     "materiale/Logaritmi_files/Image_001.png",
