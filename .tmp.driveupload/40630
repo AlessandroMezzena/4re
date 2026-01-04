@@ -109,18 +109,30 @@
             "id": "41c45dd17eafc965",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Drawing 2026-01-04 14.46.27.excalidraw"
+            }
+          },
+          {
+            "id": "1672a13dfd44dc05",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Utility and Hack.md",
+                "file": "disegno.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utility and Hack"
+              "title": "disegno"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -294,15 +306,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "41c45dd17eafc965",
+  "active": "1672a13dfd44dc05",
   "lastOpenFiles": [
+    "hey.md",
+    "piccione.pdf",
+    "Utility and Hack.md",
     "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.md",
+    "Ink/Drawing/2026.1.4 - 14.45pm.drawing",
+    "prove/Benvenuto.md",
+    "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.png",
+    "Excalidraw/Drawing 2026-01-04 14.46.27.excalidraw.pdf",
+    "disegno.md",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
     "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Ink/Drawing/2026.1.4 - 14.45pm.drawing",
-    "Utility and Hack.md",
     "Excalidraw",
     "Ink/Drawing",
     "Ink",
@@ -310,7 +328,6 @@
     "prove/metodo markdown to html.md",
     "prove/montaggio video.md",
     "prove/metodo pdf.md",
-    "prove/Benvenuto.md",
     "prove",
     "prove/Logaritmi .md",
     "materiale/Logaritmhtmli .pdf",
@@ -319,8 +336,6 @@
     "materiale/Logaritmi_files/Image_001.png",
     "materiale/Logaritmi2_files/Image_001.png",
     "materiale/Logaritmi2_files/Image_002.png",
-    "materiale/Logaritmi2.html",
-    "materiale/Logaritmi2_files",
     "prove/Readme.md",
     "prove/Studio Sistemi Dinamici e Frequenza.md"
   ]

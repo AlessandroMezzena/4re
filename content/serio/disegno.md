@@ -1,0 +1,1 @@
+[[Drawing 2026-01-04 14.46.27.excalidraw.pdf]]
