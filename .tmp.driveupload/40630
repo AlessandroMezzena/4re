@@ -137,10 +137,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "espolde.svg"
+                "file": "espoldesi.svg"
               },
               "icon": "lucide-image",
-              "title": "espolde"
+              "title": "espoldesi"
             }
           }
         ],
@@ -320,11 +320,11 @@
   },
   "active": "8c1732ac05f3ebd6",
   "lastOpenFiles": [
+    "espolde.svg",
     "espoldesi.svg",
     "bitmap.svg",
     "IMG-20260104-WA0003.jpg",
     "Algebra.pdf",
-    "espolde.svg",
     "hey.md",
     "piccione.pdf",
     "Excalidraw/Drawing 2026-01-04 14.59.05.excalidraw.md",
