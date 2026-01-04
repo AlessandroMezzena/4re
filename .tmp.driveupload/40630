@@ -137,10 +137,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "bitmap.svg"
+                "file": "espolde.svg"
               },
               "icon": "lucide-image",
-              "title": "bitmap"
+              "title": "espolde"
             }
           }
         ],
@@ -320,9 +320,12 @@
   },
   "active": "8c1732ac05f3ebd6",
   "lastOpenFiles": [
+    "espoldesi.svg",
+    "bitmap.svg",
+    "IMG-20260104-WA0003.jpg",
+    "Algebra.pdf",
     "espolde.svg",
     "hey.md",
-    "bitmap.svg",
     "piccione.pdf",
     "Excalidraw/Drawing 2026-01-04 14.59.05.excalidraw.md",
     "disegno.md",
@@ -344,7 +347,6 @@
     "prove/metodo markdown to html.md",
     "prove/montaggio video.md",
     "prove/metodo pdf.md",
-    "prove",
     "prove/Logaritmi .md",
     "prove/Trick and tips.md",
     "materiale/Logaritmi_files/Image_002.png",
