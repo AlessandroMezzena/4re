@@ -1,2 +1,0 @@
-ciccione
-prova dal tablet
