@@ -10,4 +10,10 @@ oppure
 > - **TAF:** A (Base)
 > - **CFU:** 9
 > - **Obiettivo:** Calcolo differenziale e integrale.
->
+
+ciao
+
+| nniga | ciao |     |
+| ----- | ---- | --- |
+| ddd   | dd   |     |
+|       |      |     |
